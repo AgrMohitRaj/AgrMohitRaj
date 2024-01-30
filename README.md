@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This GitHub account is owned by [Mohit Raj (@agrmohit)](https://github.com/agrmohit) and is meant solely for testing purposes.
+
+In case of any queries, please contact [@agrmohit](https://github.com/agrmohit).
+
 <!--
 **AgrMohitRaj/AgrMohitRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
